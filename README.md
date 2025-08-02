@@ -1,5 +1,6 @@
 GitHub User Autocompleted
   This is a simple React-based autocomplete search that fetches and displays GitHub users based on the input query. The application is optimized for performance, structured cleanly into components, and follows best practices for API handling and UI responsiveness.
+Deployed Link : https://688e66ca910bb1b95821d5d5--githubsearchfast.netlify.app/
 
 Components / Flow
   AutoComplete.jsx
